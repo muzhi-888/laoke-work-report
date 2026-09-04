@@ -1,0 +1,19 @@
+{
+  "name": "laoke-work-report",
+  "slug": "laoke-work-report",
+  "displayName": "周报月报工作汇报生成器",
+  "version": "1.0.0",
+  "author": "局内人·老K",
+  "category": "办公效率",
+  "license": "MIT",
+  "description": "把零散的工作记录、待办、会议纪要与进度数据，一键整理成结构清晰、有重点有数据的周报月报和汇报材料",
+  "tags": ["周报", "月报", "工作汇报", "复盘", "效率", "办公"],
+  "compatibility": ["WorkBuddy", "SkillHub", "Claude Code", "Cursor", "Codex"],
+  "permissions": ["read", "write"],
+  "safety": "只读用户主动提供的工作记录，不联网不上传任何内容",
+  "entry": "SKILL.md",
+  "references": 5,
+  "scripts": 1,
+  "hasGuardrail": true,
+  "updatedAt": "2026-09-04"
+}
